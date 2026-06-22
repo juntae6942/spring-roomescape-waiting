@@ -17,7 +17,6 @@ import roomescape.common.exception.NotFoundException;
 import roomescape.common.exception.PaymentException;
 import roomescape.common.exception.UnauthorizedException;
 import roomescape.common.exception.UpdateException;
-import roomescape.payment.application.exception.OrderUpdateException;
 
 @Slf4j
 @RestControllerAdvice
